@@ -1,0 +1,17 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+
+
+body {
+  margin: 0 !important;
+  font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+}
+.p-card-title {
+  font-size: 18px !important;
+}
+.p-message-text {
+  font-size: 18px !important;
+}
+
